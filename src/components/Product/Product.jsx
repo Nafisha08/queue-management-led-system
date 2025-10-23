@@ -20,7 +20,7 @@ export default function Product() {
                     <div className="order-2 lg:order-1">
                         <div className="bg-gradient-to-br from-blue-50 to-indigo-100 rounded-2xl p-8">
                             <img
-                                src="https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                                src="https://m.electronicqueuingsystem.com/photo/pc36708803-automatic_arabic_french_russia_etc_multiple_language_queue_management_system_machine.jpg"
                                 alt="Queue Management Service Center"
                                 className="w-full rounded-lg shadow-lg mb-4"
                             />

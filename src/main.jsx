@@ -11,6 +11,7 @@ import Workflow from './components/Workflow/Workflow.jsx'
 import Product from './components/Product/Product.jsx'
 import Component from "./components/Component/Component.jsx"
 import Contact from './components/Contact/Contact.jsx'
+import EnquiryForm from './components/Enquiry/EnquiryForm.jsx'
 
 const router = createBrowserRouter([
   {
@@ -49,7 +50,10 @@ const router = createBrowserRouter([
         path: "Contact",
         element: <Contact />
       },
-    
+      {
+        path: "EnquiryForm",  // Changed from "Enquiry"
+        element: <EnquiryForm />
+      }
       
     ]
   }
